@@ -1,5 +1,7 @@
 # [NodeSource](https://nodesource.com) Node.js Binary Distributions
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6e8362d8-9168-4c54-84c2-253465bed840.svg?orgId=568518005652)](https://app.soluble.cloud/repos/details/github.com/marcosgm/distributions?orgId=568518005652)  
+
 [![NodeSource](images/ns-linux-distributions.svg)](https://nodesource.com)
 
 [![CircleCI](https://circleci.com/gh/nodesource/distributions/tree/master.svg?style=svg)](https://circleci.com/gh/nodesource/distributions/tree/master)
